@@ -161,13 +161,12 @@ Academic and business intelligence case studies
 
 ## Google drive link
 
-https://drive.google.com/drive/folders/1R0wn3ue9I19Cm1pI3j5Ymx8EXNPYkh13?usp=drive_link
+https://drive.google.com/drive/folders/1plf9E2JO4DRsMpmczZCnBQLqHIxZMZr2
 
 ---
 
 
-## Contact
-- Maintainer: Krishnkundan
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/krishn-kundan-bhardwaj-9804a6295/) 
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/p-bhawna-664a1932a) 
 
 ---
